@@ -69,11 +69,11 @@ body {
 p {
     color: #FFFFFF;
     margin-top: 10px;
-    font-size: 14px
+    font-size: 16px
 }
 
 #error-el {
     color: orangered;
     font-style: italic;
-    font-size: 14px;
+    font-size: 16px;
 }
